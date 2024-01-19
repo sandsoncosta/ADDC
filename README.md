@@ -77,3 +77,5 @@ OUTPUT:
 Autenticação bem-sucedida para charlotte.alves com a senha: Kento123!
 Autenticação falhou para julia.lee com a senha: Kento123!.
 ```
+
+![Exemplo script](https://i.imgur.com/0IgeTwU.gif)
